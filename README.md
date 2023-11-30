@@ -21,7 +21,7 @@ O projeto dispõe das seguintes funcionalidades:
 
 ## 🗂️Acesso ao projeto
 
-Você pode baixar o projeto [aqui]()
+Você pode baixar o projeto <a href='https://github.com/leandro-pessoa/clima_app/archive/refs/heads/main.zip' download>aqui</a>
 
 
 
