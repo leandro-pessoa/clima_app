@@ -1,0 +1,11 @@
+<layer-list
+    xmlns:android='http://schemas.android.com/apk/res/android'
+>
+    <item android:drawable='@color/primary'/>
+    <item>
+        <bitmap
+            android:gravity='fill'
+            android:src='@drawable/splash_screen3'
+        />
+    </item>
+</layer-list>
