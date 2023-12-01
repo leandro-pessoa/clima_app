@@ -23,6 +23,31 @@ O projeto dispõe das seguintes funcionalidades:
 
 Você pode baixar o projeto <a href='https://github.com/leandro-pessoa/clima_app/archive/refs/heads/main.zip' download>aqui</a>
 
+## 🛠️Executar o projeto
+
+Após a instalação do projeto, abra o terminal na pasta do projeto e instale o metro com o comando:
+~~~~
+npm install metro-config --save-dev
+~~~~
+Com os pacotes instalados, execute o projeto:
+~~~~
+npx react-native start
+~~~~
+
+## ⚛️Tecnologias utilizadas
+
+As principais tecnologias utilizadas foram:
+
+- `React Native`
+- `Typescript`
+- `Styled-components`
+- `Axios`
+- `API da Open Weather`[🔗](https://openweathermap.org/)
+
+## Desenvolvedor
+
+[Leandro Pessoa](https://github.com/leandro-pessoa)
+
 
 
 
